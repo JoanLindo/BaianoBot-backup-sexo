@@ -29,10 +29,6 @@ Maneira fácil de obter STRING_SESSION. Clique no botão e depois no botão de c
 wget https://raw.githubusercontent.com/JoanLindo/BaianoBotv5/sql-extended/terminal_getstring.sh && bash terminal_getstring.sh
 ```
 
-## Como hospedar?
-
-𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥: https://telegra.ph/𝙎𝙤𝙪𝙡𝙫𝙚𝙨𝙨𝙚𝙡-11-10-3
-
 Certifique-se de ter uma conta do heroku e siga todos os passos necessários.
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/JoanLindo/BaianoBotv5.git"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Implantar no Heroku" /></a></p>
