@@ -31,7 +31,7 @@ wget https://raw.githubusercontent.com/JoanLindo/BaianoBotv5/sql-extended/termin
 
 Certifique-se de ter uma conta do heroku e siga todos os passos necessários.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/JoanLindo/BaianoBotv5.git"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Implantar no Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/JoanLindo/BaianoBot-backup-sexo"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Implantar no Heroku" /></a></p>
 
 
 ## Créditos
